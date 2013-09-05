@@ -1,7 +1,7 @@
-jquery-clock
+﻿jquery-clock
 ============
 
-jClock - jQuery Plugin to print date and time
+显示时间日期的jquery组件
 ------------
 
 需要引入jquery
